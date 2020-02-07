@@ -1,0 +1,3 @@
+C:/Users/ThatDudeUKnow/CLionProjects/Challangetwo_CSC130/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/ThatDudeUKnow/CLionProjects/Challangetwo_CSC130/cmake-build-debug/CMakeFiles/Challangetwo_CSC130.dir
+C:/Users/ThatDudeUKnow/CLionProjects/Challangetwo_CSC130/cmake-build-debug/CMakeFiles/rebuild_cache.dir
