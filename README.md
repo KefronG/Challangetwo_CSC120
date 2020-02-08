@@ -1,2 +1,2 @@
-# Challangetwo_CSC130
- challange two CSC130
+# Challangetwo_CSC120
+ challange two CSC120
